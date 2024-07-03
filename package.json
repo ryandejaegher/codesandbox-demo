@@ -4,7 +4,7 @@
   "description": "A template for HTML and CSS",
   "main": "index.html",
   "scripts": {
-    "start": "serve"
+    "start": "vite"
   },
   "keywords": [
     "html",
@@ -14,5 +14,8 @@
   "license": "MIT",
   "devDependencies": {
     "serve": "11.2.0"
+  },
+  "dependencies": {
+    "vite": "^5.3.3"
   }
 }
